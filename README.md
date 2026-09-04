@@ -48,54 +48,47 @@
 <table border="0">
   <tr>
     <td width="58%" valign="top">
-
-  <b><samp>▸ profile</samp></b>
-
-  <p>
-    <b>Full-Stack Engineer & Software Architect</b> based in Casablanca,
-    Morocco — designing end-to-end systems from <b>JVM-grade backends</b>
-    (Java · Spring Boot) to <b>reactive frontends</b> (Angular · React ·
-    TypeScript), with a focus on <b>AI integration</b>, <b>local RAG
-    architectures</b>, <b>cybersecurity</b> and <b>developer tooling</b>.
-  </p>
-
-  <b><samp>▸ currently building</samp></b>
-
-  <ul>
-    <li>🤖 &nbsp;<a href="https://github.com/NACER-EDDINE05/Aethra"><b>Aethra</b></a> — local-LLM AI assistant for cybersecurity, networking & DevOps learning</li>
-    <li>📡 &nbsp;<a href="https://github.com/NACER-EDDINE05/AerLynk-website"><b>AirLynk</b></a> — encrypted file transfer over your own Wi-Fi</li>
-    <li>🛡 &nbsp;<a href="https://github.com/NACER-EDDINE05?tab=repositories"><b>malware-detector</b></a> — security tooling in Python</li>
-    <li>🛒 &nbsp;<a href="https://github.com/NACER-EDDINE05?tab=repositories"><b>estore</b></a> — e-commerce platform</li>
-  </ul>
-
-  <b><samp>▸ principles</samp></b>
-
-  <ul>
-    <li>⚡ &nbsp;<b>ship small, instrument everything, automate the rest</b></li>
-  </ul>
-
+      <div>
+        <b><samp>▸ profile</samp></b>
+        <p>
+          <b>Full-Stack Engineer & Software Architect</b> based in Casablanca,
+          Morocco — designing end-to-end systems from <b>JVM-grade backends</b>
+          (Java · Spring Boot) to <b>reactive frontends</b> (Angular · React ·
+          TypeScript), with a focus on <b>AI integration</b>, <b>local RAG
+          architectures</b>, <b>cybersecurity</b> and <b>developer tooling</b>.
+        </p>
+        <b><samp>▸ currently building</samp></b>
+        <ul>
+          <li>🤖 &nbsp;<a href="https://github.com/NACER-EDDINE05/Aethra"><b>Aethra</b></a> — local-LLM AI assistant for cybersecurity, networking & DevOps learning</li>
+          <li>📡 &nbsp;<a href="https://github.com/NACER-EDDINE05/AerLynk-website"><b>AirLynk</b></a> — encrypted file transfer over your own Wi-Fi</li>
+          <li>🛡 &nbsp;<a href="https://github.com/NACER-EDDINE05?tab=repositories"><b>malware-detector</b></a> — security tooling in Python</li>
+          <li>🛒 &nbsp;<a href="https://github.com/NACER-EDDINE05?tab=repositories"><b>estore</b></a> — e-commerce platform</li>
+        </ul>
+      </div>
     </td>
     <td width="42%" valign="top">
-
-  <b><samp>▸ live status</samp></b>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=00E5FF&center=false&vCenter=true&width=480&height=60&lines=%F0%9F%9F%A2+open+to+collaboration;_%F0%9F%9B%A0+building%3A+Aethra+%E2%80%94+local+LLM;_%F0%9F%93%A1+shipping%3A+AirLynk" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=7C3AED&center=false&vCenter=true&width=480&height=60&lines=%F0%9F%9F%A2+open+to+collaboration;_%F0%9F%9B%A0+building%3A+Aethra+%E2%80%94+local+LLM;_%F0%9F%93%A1+shipping%3A+AirLynk" />
-    <img alt="Open to collaboration — building Aethra, local LLM — shipping AirLynk"
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=00E5FF&center=false&vCenter=true&width=480&height=60&lines=%F0%9F%9F%A2+open+to+collaboration;_%F0%9F%9B%A0+building%3A+Aethra+%E2%80%94+local+LLM;_%F0%9F%93%A1+shipping%3A+AirLynk" />
-  </picture>
-
-  <b><samp>▸ quick links</samp></b>
-
-  <ul>
-    <li>📨 &nbsp;<a href="mailto:nacereddine@cylindrique.com">nacereddine@cylindrique.com</a></li>
-    <li>🧭 &nbsp;<a href="https://github.com/NACER-EDDINE05?tab=repositories">all repositories</a></li>
-    <li>🤖 &nbsp;<a href="https://github.com/NACER-EDDINE05/Aethra">Aethra — flagship project</a></li>
-  </ul>
-
+      <div>
+        <b><samp>▸ live status</samp></b><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)"
+            srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=00E5FF&center=false&vCenter=true&width=480&height=60&lines=%F0%9F%9F%A2+open+to+collaboration;_%F0%9F%9B%A0+building%3A+Aethra+%E2%80%94+local+LLM;_%F0%9F%93%A1+shipping%3A+AirLynk" />
+          <source media="(prefers-color-scheme: light)"
+            srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=7C3AED&center=false&vCenter=true&width=480&height=60&lines=%F0%9F%9F%A2+open+to+collaboration;_%F0%9F%9B%A0+building%3A+Aethra+%E2%80%94+local+LLM;_%F0%9F%93%A1+shipping%3A+AirLynk" />
+          <img alt="Open to collaboration — building Aethra, local LLM — shipping AirLynk"
+            src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=00E5FF&center=false&vCenter=true&width=480&height=60&lines=%F0%9F%9F%A2+open+to+collaboration;_%F0%9F%9B%A0+building%3A+Aethra+%E2%80%94+local+LLM;_%F0%9F%93%A1+shipping%3A+AirLynk" />
+        </picture>
+        <br/>
+        <b><samp>▸ quick links</samp></b>
+        <ul>
+          <li>📨 &nbsp;<a href="mailto:nacereddine@cylindrique.com">nacereddine@cylindrique.com</a></li>
+          <li>🧭 &nbsp;<a href="https://github.com/NACER-EDDINE05?tab=repositories">all repositories</a></li>
+          <li>🤖 &nbsp;<a href="https://github.com/NACER-EDDINE05/Aethra">Aethra — flagship project</a></li>
+        </ul>
+        <b><samp>▸ principles</samp></b>
+        <ul>
+          <li>⚡ &nbsp;<b>ship small, instrument everything, automate the rest</b></li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
