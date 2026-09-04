@@ -118,62 +118,60 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-
-  <b><samp>▸ languages</samp></b><br/>
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,ts,js,py,bash&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,ts,js,py,bash&theme=light" />
-      <img alt="Java, TypeScript, JavaScript, Python, Bash" src="https://skillicons.dev/icons?i=java,ts,js,py,bash&theme=dark" />
-    </picture>
-  </a>
-
-  <br/><br/>
-  <b><samp>▸ frameworks · backend</samp></b><br/>
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,django,graphql,redis,postgres&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,django,graphql,redis,postgres&theme=light" />
-      <img alt="Spring Boot, Node.js, NestJS, FastAPI, Django, GraphQL, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,django,graphql,redis,postgres&theme=dark" />
-    </picture>
-  </a>
-
+      <div align="center">
+        <b><samp>▸ languages</samp></b><br/>
+        <a href="https://skillicons.dev">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,ts,js,py,bash&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,ts,js,py,bash&theme=light" />
+            <img alt="Java, TypeScript, JavaScript, Python, Bash" src="https://skillicons.dev/icons?i=java,ts,js,py,bash&theme=dark" />
+          </picture>
+        </a>
+        <br/><br/>
+        <b><samp>▸ frameworks · backend</samp></b><br/>
+        <a href="https://skillicons.dev">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,django,graphql,redis,postgres&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,django,graphql,redis,postgres&theme=light" />
+            <img alt="Spring Boot, Node.js, NestJS, FastAPI, Django, GraphQL, Redis, PostgreSQL" src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi,django,graphql,redis,postgres&theme=dark" />
+          </picture>
+        </a>
+      </div>
     </td>
     <td width="50%" valign="top">
-
-  <b><samp>▸ frontend</samp></b><br/>
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,vite&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,vite&theme=light" />
-      <img alt="React, Angular, Tailwind CSS, HTML, CSS, Vite" src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,vite&theme=dark" />
-    </picture>
-  </a>
-
-  <br/><br/>
-  <b><samp>▸ cloud · devops</samp></b><br/>
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,vercel,nginx,linux&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,vercel,nginx,linux&theme=light" />
-      <img alt="Docker, Kubernetes, AWS, Terraform, GitHub Actions, Vercel, Nginx, Linux" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,vercel,nginx,linux&theme=dark" />
-    </picture>
-  </a>
-
+      <div align="center">
+        <b><samp>▸ frontend</samp></b><br/>
+        <a href="https://skillicons.dev">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,vite&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,vite&theme=light" />
+            <img alt="React, Angular, Tailwind CSS, HTML, CSS, Vite" src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,vite&theme=dark" />
+          </picture>
+        </a>
+        <br/><br/>
+        <b><samp>▸ cloud · devops</samp></b><br/>
+        <a href="https://skillicons.dev">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,vercel,nginx,linux&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,vercel,nginx,linux&theme=light" />
+            <img alt="Docker, Kubernetes, AWS, Terraform, GitHub Actions, Vercel, Nginx, Linux" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions,vercel,nginx,linux&theme=dark" />
+          </picture>
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-
-  <b><samp>▸ ai · tooling</samp></b><br/>
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,jest,figma,vscode,md&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,jest,figma,vscode,md&theme=light" />
-      <img alt="PyTorch, TensorFlow, Git, GitHub, Jest, Figma, VS Code, Markdown" src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,jest,figma,vscode,md&theme=dark" />
-    </picture>
-  </a>
-
+      <div align="center">
+        <b><samp>▸ ai · tooling</samp></b><br/>
+        <a href="https://skillicons.dev">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,jest,figma,vscode,md&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,jest,figma,vscode,md&theme=light" />
+            <img alt="PyTorch, TensorFlow, Git, GitHub, Jest, Figma, VS Code, Markdown" src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,jest,figma,vscode,md&theme=dark" />
+          </picture>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
